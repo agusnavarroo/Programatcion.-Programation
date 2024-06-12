@@ -1,0 +1,7 @@
+git clone -> Traer un repositorio remoto a local
+git add . -> agregar TODOS los cambios del repositorio local
+git commit -m -> dar una descripción a los cambios realizados
+git push -> Enviar dichos cambios hacia el repositorio remoto
+
+git status -> Ver el estado de tu repositorio local
+git log -> Ver registro de commits hechos en el repositorio

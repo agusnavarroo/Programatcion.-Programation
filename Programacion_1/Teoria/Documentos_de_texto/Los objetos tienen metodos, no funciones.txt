@@ -1,0 +1,1 @@
+Los objetos tienen metodos, no funciones
